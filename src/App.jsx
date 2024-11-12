@@ -10,7 +10,7 @@ function App() {
     <div>
       <h1>salam</h1>
 
-      <h1>kia is here</h1>
+    
 
       <h1>master is here</h1>
 
